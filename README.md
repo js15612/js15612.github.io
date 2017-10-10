@@ -1,4 +1,10 @@
-## Welcome to my Website
+# Greetings, my name is Jacob
+
+**Ambitious, diligent, and a desire to learn more; I'm looking for an internship position to further my expand my knowledge in engineering otuside of my classwork to better serve myself and my Baja SAE team ** 
+
+## About Me
+
+I'm a junior mechanical engineering student at Georgia Southern University, expecting to graduate in the Fall of 2019.  I actively participate in my school's Society of Automotive Engineers chapter, serving as both the Drivetrain Design Lead for Baja SAE and the Campus Outreach lead for the organization itself.
 
 You can use the [editor on GitHub](https://github.com/js15612/js15612.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
