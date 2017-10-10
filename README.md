@@ -1,6 +1,6 @@
 # Greetings, my name is Jacob
 
-**Ambitious, diligent, and a desire to learn more; I'm looking for an internship position to further my expand my knowledge in engineering otuside of my classwork to better serve myself and my Baja SAE team ** 
+** Ambitious, diligent, and a desire to learn more; I'm looking for an internship position to further my expand my knowledge in engineering otuside of my classwork to better serve myself and my Baja SAE team ** 
 
 ## About Me
 
