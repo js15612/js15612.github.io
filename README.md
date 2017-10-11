@@ -14,6 +14,8 @@ I am actively looking to obtain an internship or co-op position with a company t
 
 ### Baja SAE
 
+![2017Baja_banner](js15612.github.io/assets/images/2017Baja_banner.jpg){:class="img-responsive"}
+
 I have been a part of the school's Society of Automotive Engineer's chapter since the beginning of Fall 2015, my first semester at Georgia Southern.  My freshman year comprised of manufacturing spacers, suspension tabs, and other small-scale components while I learn about the different subsystems such as suspension and drivetrain.
 
 My sophomore year was spent redesigning the braking system to reduce plastic deformation of our brake rotors while maintaining a lightweight system durable enough to undergo 200+ hours of testing and 8 hours of dynamics events, including a 4 hour endurance race.
