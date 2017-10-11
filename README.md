@@ -4,10 +4,10 @@
 
 ## Basics
 
-1. Mechanical Engineering at Georgia Southern University, exp. Fall '19
-2. Drivetrain Design lead, Data Acquisition lead, and Campus Outreach lead for Georgia Southern's Society of Automotive Engineers chapter
-3. Interested in propulsion systems, additive manufacturing, and automation
-4. Hobbies include video editing, GoPro, graphic design, Arduino, Linux, and anything motorsport!
+- Mechanical Engineering at Georgia Southern University, exp. Fall '19
+- Drivetrain Design lead, Data Acquisition lead, and Campus Outreach lead for Georgia Southern's Society of Automotive Engineers chapter
+- Interested in propulsion systems, additive manufacturing, and automation
+- Hobbies include video editing, GoPro, graphic design, Arduino, Linux, and anything motorsport!
 
 ## Baja SAE
 
