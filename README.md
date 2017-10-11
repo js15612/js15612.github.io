@@ -1,16 +1,13 @@
 # Jacob Springer
 
-**Ambition, diligence, and a desire for more knowledge; I'm a student active with my Society of Automotive Engineers chapter looking for an internship or co-op position to further and expand my knowledge in engineering outside of the classroom to improve my experience and and my Baja SAE team.** 
+**Ambition, diligence, and a desire for more knowledge; I'm a passionate engineering student heavily involved with my Society of Automotive Engineers chapter.**  I am currently pursuing an internship or co-op position at a company relating to the automotive or aerospace industries.
 
-## Basic Summary
+## Basics
 
-Currently studying mechanical engineering at Georgia Southern University; involvement as design and organization officer for the school's motorsports team; interested in opportunities with the automotive and aerospace industries; hobbies include filmmaking, music, kayaking, and coding projects
-
-## B.S.M.E., Fall '19
-
-I'm a junior mechanical engineering student at Georgia Southern University, expecting to graduate in the Fall of 2019.  I actively participate in my school's Society of Automotive Engineers chapter, which I have been a member of since the beginning of Fall 2015. I currently serve as both the Drivetrain Design Lead for Baja SAE and the Campus Outreach lead for SAE.
-
-I am actively looking to obtain an internship or co-op position with a company that will utilize both my classroom knowledge and my experience with Baja SAE.
+1.Mechanical Engineering at Georgia Southern University, exp. Fall '19
+2.Drivetrain Design lead, Data Acquisition lead, and Campus Outreach lead for Georgia Southern's Society of Automotive Engineers chapter
+3.Interested in propulsion systems, additive manufacturing, and automation
+4.Hobbies include video editing, GoPro, graphic design, Arduino, Linux, and anything motorsport!
 
 ## Baja SAE
 
@@ -21,7 +18,7 @@ My sophomore year was spent redesigning the braking system to reduce plastic def
 As of right now, my junior year is being spent redesigning the Baja car's drivetrain, including both the Continuously Variable Transmission (CVT) and the gearbox.  Current goals of the system include:
 
 1. Modifying the CVT to allow for a greater range of ratios, which will increase our overall top speed and/or our torque generated at the wheel.
-2. Reduce the weight of the overall system, which will increase the efficiency of our drivetrain by eliminating mass moment of inertia.
+2. Reduce the weight of the overall system, which will increase the efficiency of our drivetrain by eliminating moment of inertia.
 3. Changing the material of the gears within the gearbox to materials with better durability and lighter weight, to improve efficiency and packaging.
 
 
