@@ -1,6 +1,6 @@
 # Jacob Springer
 
-**Ambition, diligence, and a desire for more knowledge; I'm a passionate engineering student heavily involved with my Society of Automotive Engineers chapter.**  I am currently pursuing an internship or co-op position at a company relating to the automotive or aerospace industries.
+**Mechanical engineering graduate seeking opportunity**  I am currently pursuing an internship or co-op position at a company relating to the automotive or aerospace industries.
 
 ## Basics
 
